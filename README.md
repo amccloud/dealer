@@ -1,4 +1,5 @@
 # Dealer
+[![Build Status](https://travis-ci.org/amccloud/dealer.png?branch=master)](https://travis-ci.org/amccloud/dealer)
 
 TODO: Write a gem description
 
