@@ -1,5 +1,5 @@
 # Dealer
-[![Build Status](https://travis-ci.org/amccloud/dealer.png?branch=master)](https://travis-ci.org/amccloud/dealer)
+[![Build Status](https://travis-ci.org/amccloud/dealer.png?branch=master)](https://travis-ci.org/amccloud/dealer) [![Coverage Status](https://coveralls.io/repos/amccloud/dealer/badge.png?branch=master)](https://coveralls.io/r/amccloud/dealer?branch=master)
 
 TODO: Write a gem description
 
